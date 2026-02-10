@@ -131,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.wayoflife.com.ico",
     "slug": "students",
     "status": "up",
-    "uptime": "8.95%",
-    "uptimeDay": "8.95%",
-    "uptimeWeek": "8.95%",
-    "uptimeMonth": "8.95%",
-    "uptimeYear": "8.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 837,
     "timeDay": 837,
     "timeWeek": 837,
     "timeMonth": 837,
     "timeYear": 837,
-    "dailyMinutesDown": {
-      "2026-02-10": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Eades",
