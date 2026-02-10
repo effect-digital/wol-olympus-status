@@ -11,6 +11,6 @@
   --submit-button-background-color: #70ffa9;
   --submit-button-color: #ffffff;
   --graph-opacity: 0.8;
-  --graph-filter: brightness(0) saturate(100%) invert(87%) sepia(6%)
-    saturate(3421%) hue-rotate(349deg) brightness(118%) contrast(107%);
+  --graph-filter: brightness(0) saturate(100%) invert(18%) sepia(7%)
+    saturate(552%) hue-rotate(155deg) brightness(97%) contrast(93%);
 }
