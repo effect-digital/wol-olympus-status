@@ -1,7 +1,16 @@
 :root {
-  --body-background-color: #fcf6ee;
+  --body-background-color: #fff;
   --body-text-color: #303436;
-  --card-background-color: #9c9382;
-  --nav-background-color: #fcf6ee;
-  --nav-border-bottom-color: #9c9382;
+  --card-background-color: #fff;
+  --card-border-color: #fcf6ee;
+  --nav-background-color: #303436;
+  --nav-border-bottom-color: #a0845b;
+  --nav-text-color: #ffffff;
+  --error-button-background-color: #ff7070;
+  --error-button-border-color: #ff7070;
+  --submit-button-border-color: #70ffa9;
+  --submit-button-background-color: #70ffa9;
+  --submit-button-color: #ffffff;
+  --graph-opacity: 0.8;
+  --graph-filter: invert(0.5) sepia(1) grayscale(1) brightness(0.8);
 }
