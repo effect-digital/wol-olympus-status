@@ -22,6 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /wol-olympus-status
   apiBaseUrl: https://api.github.com
+  themeUrl: https://effect-digital.github.io/wol-olympus-status/theme.css
   logoUrl: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
   favicon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/icon.svg
   name: Olympus Status
