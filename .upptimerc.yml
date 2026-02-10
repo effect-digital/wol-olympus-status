@@ -38,6 +38,7 @@ sites:
       - 200
   - name: Rightmove
     url: https://adfapi.rightmove.co.uk/
+    icon: https://media.rightmove.co.uk/assets/shared-assets/favicons/light/favicon.ico
     expectedStatusCodes:
       - 403
       - 200
