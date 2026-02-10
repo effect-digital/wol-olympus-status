@@ -6,6 +6,7 @@ sites:
   # Systems
   - name: Olympus
     url: https://api.olympustech.ai/up
+    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
   - name: Everest
     url: https://everest.wayoflife.com/up
   - name: Portal
@@ -14,20 +15,23 @@ sites:
     url: https://tenants.api.wayoflife.com/health
   - name: Qube
     url: https://qube.api.wayoflife.com/up
+    icon: https://www.wayoflife.com/favicon.ico
   - name: Qube Service
     url: https://2617-portals.qubeglobalcloud.com/qubews/?wsdl
+    icon: https://www.wayoflife.com/favicon.ico
 
   # Sites
   - name: Way of Life
     url: https://www.wayoflife.com/
   - name: Students
-    url: https://student.wayoflife.com/
+    url: https://students.wayoflife.com/
   - name: The Eades
     url: https://theeades.com/
   - name: The Draper
     url: https://thedraper.com/
   - name: Single Family
     url: https://home.wayoflife.com/
+    icon: https://www.wayoflife.com/favicon.ico
 
     # Third-party services
     expectedStatusCodes:
