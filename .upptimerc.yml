@@ -24,7 +24,7 @@ sites:
   - name: Way of Life
     url: https://www.wayoflife.com/
   - name: Students
-    url: https://students.wayoflife.com/
+    url: https://student.wayoflife.com/
   - name: The Eades
     url: https://theeades.com/
   - name: The Draper
@@ -56,7 +56,7 @@ status-website:
   themeUrl: https://effect-digital.github.io/wol-olympus-status/theme.css
   logoUrl: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
   faviconSvg: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/icon.svg
-  name: Olympus
+  name: Way of Life Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
