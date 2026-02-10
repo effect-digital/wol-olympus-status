@@ -131,18 +131,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/students.wayoflife.com.ico",
     "slug": "students",
     "status": "down",
-    "uptime": "98.75%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.75%",
+    "uptime": "97.23%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "97.23%",
+    "uptimeYear": "97.23%",
     "time": 837,
     "timeDay": 837,
     "timeWeek": 837,
     "timeMonth": 837,
     "timeYear": 837,
     "dailyMinutesDown": {
-      "2026-02-10": 0
+      "2026-02-10": 1
     }
   },
   {
