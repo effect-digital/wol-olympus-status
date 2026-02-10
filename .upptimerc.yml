@@ -7,18 +7,21 @@ sites:
   - name: Olympus
     url: https://api.olympustech.ai/up
     icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
-  - name: Everest
+  - name: Marketing
     url: https://everest.wayoflife.com/up
-  - name: Portal
+    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
+  - name: Customer & Property Management
     url: https://portal.wayoflife.com/up
+    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
   - name: Tenants API
     url: https://tenants.api.wayoflife.com/health
+    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
   - name: Internal Qube API
     url: https://qube.api.wayoflife.com/up
-    icon: https://www.wayoflife.com/favicon.ico
+    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
   - name: Qube Service
     url: https://2617-portals.qubeglobalcloud.com/qubews/?wsdl
-    icon: https://www.wayoflife.com/favicon.ico
+    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/qube.png
 
   # Frontend Sites
   - name: Multi Family
@@ -34,8 +37,6 @@ sites:
     icon: https://www.wayoflife.com/favicon.ico
 
     # Third-party services
-    expectedStatusCodes:
-      - 200
   - name: Rightmove
     url: https://adfapi.rightmove.co.uk/
     icon: https://media.rightmove.co.uk/assets/shared-assets/favicons/light/favicon.ico
@@ -48,6 +49,11 @@ sites:
   - name: Cloudflare
     url: https://www.cloudflarestatus.com/api/v2/status.json
     __dangerous__body_down: '"indicator":"(?!none)'
+  - name: Storyblok
+    url: https://api.storyblok.com/v2/cdn/spaces/me
+    icon: https://www.storyblok.com/favicon.svg
+    expectedStatusCodes:
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
