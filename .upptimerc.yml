@@ -3,21 +3,46 @@ owner: effect-digital # Your GitHub organization or username, where this reposit
 repo: wol-olympus-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://www.google.com
-  - name: Slack Notification Test
-    url: https://thisurldoesnotexist123.example.com
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # Systems
+  - name: Olympus
+    url: https://api.olympustech.ai/up
+  - name: Everest
+    url: https://everest.wayoflife.com/up
+  - name: Portal
+    url: https://portal.wayoflife.com/up
+  - name: Tenants API
+    url: https://tenants.api.wayoflife.com/health
+  - name: Qube
+    url: https://qube.api.wayoflife.com/up
+  - name: Qube Service
+    url: https://2617-portals.qubeglobalcloud.com/qubews/?wsdl
+
+  # Sites
+  - name: Way of Life
+    url: https://www.wayoflife.com/
+  - name: Students
+    url: https://students.wayoflife.com/
+  - name: The Eades
+    url: https://theeades.com/
+  - name: The Draper
+    url: https://thedraper.com/
+  - name: Single Family
+    url: https://home.wayoflife.com/
+
+    # Third-party services
+    expectedStatusCodes:
+      - 200
+  - name: Rightmove
+    url: https://adfapi.rightmove.co.uk/
+    expectedStatusCodes:
+      - 403
+      - 200
+  - name: Netlify Status
+    url: https://www.netlifystatus.com/api/v2/status.json
+    __dangerous__body_down: "\"indicator\":\"(?!none)"
+  - name: Cloudflare
+    url: https://www.cloudflarestatus.com/api/v2/status.json
+    __dangerous__body_down: "\"indicator\":\"(?!none)"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
