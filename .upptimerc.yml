@@ -34,7 +34,7 @@ sites:
     url: https://thedraper.com/
   - name: Single Family
     url: https://home.wayoflife.com/
-    icon: https://www.wayoflife.com/favicon.ico
+    icon: https://home.wayoflife.com/favicon.ico
 
     # Third-party services
   - name: Rightmove
