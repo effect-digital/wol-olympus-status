@@ -1,7 +1,7 @@
 url: https://api.storyblok.com/v2/cdn/spaces/me
-status: down
-code: 502
-responseTime: 221
-lastUpdated: 2026-02-14T14:15:16.905Z
+status: up
+code: 401
+responseTime: 223
+lastUpdated: 2026-02-14T14:29:46.962Z
 startTime: 2026-02-10T15:46:12.411Z
 generator: Upptime <https://github.com/upptime/upptime>
