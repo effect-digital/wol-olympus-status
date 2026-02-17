@@ -6,22 +6,22 @@ sites:
   # Internal Systems
   - name: Olympus
     url: https://api.olympustech.ai/up
-    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
+    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg
   - name: Marketing
     url: https://everest.wayoflife.com/up
-    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
+    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg
   - name: Customer & Property Management
     url: https://portal.wayoflife.com/up
-    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
+    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg
   - name: Tenants API
     url: https://tenants.api.wayoflife.com/health
-    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
+    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg
   - name: Internal Qube API
     url: https://qube.api.wayoflife.com/up
-    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
+    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg
   - name: Qube Service
     url: https://2617-portals.qubeglobalcloud.com/qubews/?wsdl
-    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/qube.png
+    icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/qube.png
 
   # Frontend Sites
   - name: Multi Family
@@ -58,13 +58,12 @@ sites:
       - 401
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /wol-olympus-status
+  cname: status.olympustech.ai
+  baseUrl: /
   apiBaseUrl: https://api.github.com
-  themeUrl: https://effect-digital.github.io/wol-olympus-status/theme.css
-  logoUrl: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/logo.svg
-  faviconSvg: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/master/assets/icon.svg
+  themeUrl: https://status.olympustech.ai/theme.css
+  logoUrl: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg
+  faviconSvg: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/icon.svg
   name: Olympus Status
   introTitle: "**Olympus** System Status"
   introMessage: Real-time monitoring for Olympus platforms and services. This page provides live uptime data and incident history across all our systems, sites, and third-party integrations.
