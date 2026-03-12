@@ -1,7 +1,7 @@
 url: https://www.netlifystatus.com/api/v2/status.json
-status: degraded
+status: up
 code: 200
-responseTime: 284
-lastUpdated: 2026-03-12T09:02:16.655Z
+responseTime: 348
+lastUpdated: 2026-03-12T12:54:08.242Z
 startTime: 2026-02-12T12:11:26.828Z
 generator: Upptime <https://github.com/upptime/upptime>
