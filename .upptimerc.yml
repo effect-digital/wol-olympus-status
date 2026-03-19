@@ -60,6 +60,7 @@ sites:
 status-website:
   cname: status.olympustech.ai
   baseUrl: ""
+  token: ${{ secrets.GH_PAT }}
   apiBaseUrl: https://api.github.com
   themeUrl: https://status.olympustech.ai/theme.css
   logoUrl: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg
