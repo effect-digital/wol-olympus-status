@@ -45,11 +45,11 @@ sites:
       - 200
   - name: Netlify
     url: https://www.netlifystatus.com/api/v2/status.json
-    __dangerous__body_degraded: '"indicator":"minor"'
+    # __dangerous__body_degraded: '"indicator":"minor"'
     __dangerous__body_down: '"indicator":"(major|critical)"'
   - name: Cloudflare
     url: https://www.cloudflarestatus.com/api/v2/status.json
-    __dangerous__body_degraded: '"indicator":"minor"'
+    # __dangerous__body_degraded: '"indicator":"minor"'
     __dangerous__body_down: '"indicator":"(major|critical)"'
   - name: Storyblok
     url: https://api.storyblok.com/v2/cdn/spaces/me
