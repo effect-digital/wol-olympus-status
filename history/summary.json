@@ -22,9 +22,9 @@
     "url": "https://everest.wayoflife.com/up",
     "icon": "https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg",
     "slug": "marketing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 438,
     "timeMonth": 526,
     "timeYear": 521,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-03": 0
+    }
   },
   {
     "name": "Customer & Property Management",
@@ -259,11 +261,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "cloudflare",
     "status": "up",
-    "uptime": "60.02%",
+    "uptime": "60.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.26%",
-    "uptimeYear": "60.02%",
+    "uptimeMonth": "46.34%",
+    "uptimeYear": "60.04%",
     "time": 211,
     "timeDay": 194,
     "timeWeek": 206,
