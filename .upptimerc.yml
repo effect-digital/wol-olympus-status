@@ -5,16 +5,16 @@ repo: wol-olympus-status # The name of this repository
 sites:
   # Internal Systems
   - name: Olympus
-    url: https://api.olympustech.ai/up
+    url: https://backend.olympustech.ai/up
     icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg
   - name: Marketing
-    url: https://everest.wayoflife.com/up
+    url: https://marketing.olympustech.ai/up
     icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg
   - name: Customer & Property Management
-    url: https://portal.wayoflife.com/up
+    url: https://customer.olympustech.ai/up
     icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg
   - name: Tenants API
-    url: https://tenants.api.wayoflife.com/health
+    url: https://tenancy-api.olympustech.ai/health
     icon: https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg
   - name: Internal Qube API
     url: https://qube.api.wayoflife.com/up
