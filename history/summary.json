@@ -23,17 +23,20 @@
     "icon": "https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg",
     "slug": "marketing",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.90%",
     "time": 615,
     "timeDay": 430,
     "timeWeek": 512,
     "timeMonth": 566,
     "timeYear": 615,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-21": 27,
+      "2026-04-03": 212
+    }
   },
   {
     "name": "Customer & Property Management",
@@ -76,7 +79,7 @@
     "url": "https://qube.api.wayoflife.com/up",
     "icon": "https://raw.githubusercontent.com/effect-digital/wol-olympus-status/main/assets/logo.svg",
     "slug": "internal-qube-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -113,17 +116,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wayoflife.com.ico",
     "slug": "multi-family",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 1755,
     "timeDay": 1567,
     "timeWeek": 1816,
     "timeMonth": 1639,
     "timeYear": 1755,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-10": 46
+    }
   },
   {
     "name": "Students",
@@ -131,17 +136,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.wayoflife.com.ico",
     "slug": "students",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 1103,
     "timeDay": 538,
     "timeWeek": 700,
     "timeMonth": 928,
     "timeYear": 1103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-10": 46,
+      "2026-02-10": 17
+    }
   },
   {
     "name": "The Eades",
@@ -167,17 +175,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/thedraper.com.ico",
     "slug": "the-draper",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.81%",
     "time": 665,
     "timeDay": 129,
     "timeWeek": 531,
     "timeMonth": 614,
     "timeYear": 665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-10": 98,
+      "2026-03-30": 257,
+      "2026-03-11": 20,
+      "2026-02-17": 33,
+      "2026-02-11": 23
+    }
   },
   {
     "name": "Single Family",
@@ -185,17 +199,21 @@
     "icon": "https://home.wayoflife.com/favicon.ico",
     "slug": "single-family",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.91%",
     "time": 5521,
     "timeDay": 1152,
     "timeWeek": 4071,
     "timeMonth": 5388,
     "timeYear": 5521,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-10": 98,
+      "2026-04-23": 60,
+      "2026-03-31": 40
+    }
   },
   {
     "name": "Rightmove",
@@ -203,17 +221,19 @@
     "icon": "https://media.rightmove.co.uk/assets/shared-assets/favicons/light/favicon.ico",
     "slug": "rightmove",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.89%",
     "time": 922,
     "timeDay": 307,
     "timeWeek": 1104,
     "timeMonth": 743,
     "timeYear": 922,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 257
+    }
   },
   {
     "name": "Netlify",
@@ -221,17 +241,30 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.netlifystatus.com.ico",
     "slug": "netlify",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.36%",
     "time": 335,
     "timeDay": 265,
     "timeWeek": 273,
     "timeMonth": 279,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-07": 22,
+      "2026-04-09": 35,
+      "2026-03-19": 144,
+      "2026-03-18": 118,
+      "2026-03-12": 268,
+      "2026-03-11": 120,
+      "2026-03-09": 95,
+      "2026-03-06": 425,
+      "2026-03-03": 42,
+      "2026-02-26": 22,
+      "2026-02-25": 83,
+      "2026-02-17": 73
+    }
   },
   {
     "name": "Cloudflare",
@@ -239,17 +272,43 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "cloudflare",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "87.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "87.13%",
     "time": 211,
     "timeDay": 167,
     "timeWeek": 235,
     "timeMonth": 196,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-07": 22,
+      "2026-04-09": 35,
+      "2026-03-19": 521,
+      "2026-03-18": 1440,
+      "2026-03-17": 1440,
+      "2026-03-16": 1440,
+      "2026-03-15": 1440,
+      "2026-03-14": 1440,
+      "2026-03-13": 1440,
+      "2026-03-12": 1440,
+      "2026-03-11": 1440,
+      "2026-03-10": 1440,
+      "2026-03-09": 1440,
+      "2026-03-08": 1440,
+      "2026-03-07": 1440,
+      "2026-03-06": 1440,
+      "2026-03-05": 1440,
+      "2026-03-04": 1440,
+      "2026-03-03": 1440,
+      "2026-03-02": 1440,
+      "2026-03-01": 1440,
+      "2026-02-28": 1390,
+      "2026-02-27": 1417,
+      "2026-02-26": 330,
+      "2026-02-12": 3
+    }
   },
   {
     "name": "Storyblok",
