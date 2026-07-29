@@ -9,7 +9,7 @@
 # Auto-regeneration has been disabled (see updates.yml / update-template.yml) so
 # this change persists. Re-running the Upptime template update will revert it.
 #
-# 🔼 Upptime @v1.41.3
+# 🔼 Upptime @v1.43.12
 # GitHub-powered open-source uptime monitor and status page by Anand Chowdhary
 
 # * Source: https://github.com/upptime/upptime
@@ -37,12 +37,12 @@ jobs:
           app-id: ${{ vars.EFFECT_CI_APP_ID }}
           private-key: ${{ secrets.EFFECT_CI_PRIVATE_KEY }}
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.head_ref }}
           token: ${{ steps.app-token.outputs.token }}
       - name: Generate site
-        uses: upptime/uptime-monitor@v1.41.3
+        uses: upptime/uptime-monitor@v1.43.12
         with:
           command: "site"
         env:

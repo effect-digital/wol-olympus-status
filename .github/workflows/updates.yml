@@ -9,7 +9,7 @@
 # workflows. This job is left available via manual dispatch only - run it
 # knowingly, and re-apply the app-token customisation afterwards.
 #
-# 🔼 Upptime @v1.41.3
+# 🔼 Upptime @v1.43.12
 # GitHub-powered open-source uptime monitor and status page by Anand Chowdhary
 
 # * Source: https://github.com/upptime/upptime
@@ -34,7 +34,7 @@ jobs:
           app-id: ${{ vars.EFFECT_CI_APP_ID }}
           private-key: ${{ secrets.EFFECT_CI_PRIVATE_KEY }}
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.head_ref }}
           token: ${{ steps.app-token.outputs.token }}
