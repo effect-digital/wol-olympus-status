@@ -240,16 +240,16 @@
     "url": "https://www.netlifystatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.netlifystatus.com.ico",
     "slug": "netlify",
-    "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.39%",
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.38%",
     "time": 320,
-    "timeDay": 94,
-    "timeWeek": 144,
-    "timeMonth": 224,
+    "timeDay": 190,
+    "timeWeek": 162,
+    "timeMonth": 226,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2026-02-17": 73,
@@ -267,7 +267,7 @@
       "2026-08-04": 43,
       "2026-08-06": 49,
       "2026-08-07": 20,
-      "2026-08-08": 0
+      "2026-08-08": 14
     }
   },
   {
@@ -275,16 +275,16 @@
     "url": "https://www.cloudflarestatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "cloudflare",
-    "status": "down",
-    "uptime": "88.46%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "88.46%",
+    "status": "up",
+    "uptime": "88.45%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "88.45%",
     "time": 202,
-    "timeDay": 94,
-    "timeWeek": 107,
-    "timeMonth": 164,
+    "timeDay": 171,
+    "timeWeek": 125,
+    "timeMonth": 166,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2026-02-12": 3,
@@ -315,7 +315,7 @@
       "2026-08-04": 43,
       "2026-08-06": 49,
       "2026-08-07": 20,
-      "2026-08-08": 0
+      "2026-08-08": 14
     }
   },
   {
