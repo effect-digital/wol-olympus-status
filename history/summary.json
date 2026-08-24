@@ -158,19 +158,19 @@
     "url": "https://theeades.com/",
     "icon": "https://icons.duckduckgo.com/ip3/theeades.com.ico",
     "slug": "the-eades",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1304,
-    "timeDay": 40093,
-    "timeWeek": 40093,
-    "timeMonth": 8519,
-    "timeYear": 1304,
+    "time": 1311,
+    "timeDay": 21177,
+    "timeWeek": 21177,
+    "timeMonth": 7625,
+    "timeYear": 1311,
     "dailyMinutesDown": {
-      "2026-08-24": 0
+      "2026-08-24": 13
     }
   },
   {
