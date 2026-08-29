@@ -202,17 +202,17 @@
     "url": "https://home.wayoflife.com/",
     "icon": "https://home.wayoflife.com/favicon.ico",
     "slug": "single-family",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.90%",
-    "time": 5392,
-    "timeDay": 1040,
-    "timeWeek": 1231,
-    "timeMonth": 4274,
-    "timeYear": 5392,
+    "time": 5365,
+    "timeDay": 1217,
+    "timeWeek": 1272,
+    "timeMonth": 3914,
+    "timeYear": 5365,
     "dailyMinutesDown": {
       "2026-03-31": 40,
       "2026-04-23": 60,
@@ -220,7 +220,7 @@
       "2026-08-20": 30,
       "2026-08-21": 32,
       "2026-08-25": 30,
-      "2026-08-29": 0
+      "2026-08-29": 6
     }
   },
   {
