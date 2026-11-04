@@ -117,20 +117,20 @@
     "url": "https://www.wayoflife.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wayoflife.com.ico",
     "slug": "multi-family",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1967,
-    "timeDay": 15981,
-    "timeWeek": 5909,
-    "timeMonth": 5909,
-    "timeYear": 1967,
+    "time": 1969,
+    "timeDay": 11376,
+    "timeWeek": 5441,
+    "timeMonth": 5441,
+    "timeYear": 1969,
     "dailyMinutesDown": {
       "2026-05-10": 46,
-      "2026-11-04": 3
+      "2026-11-04": 5
     }
   },
   {
@@ -138,21 +138,21 @@
     "url": "https://student.wayoflife.com/",
     "icon": "https://icons.duckduckgo.com/ip3/student.wayoflife.com.ico",
     "slug": "students",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
-    "time": 1281,
-    "timeDay": 15669,
-    "timeWeek": 5107,
-    "timeMonth": 5107,
-    "timeYear": 1281,
+    "time": 1279,
+    "timeDay": 10786,
+    "timeWeek": 4596,
+    "timeMonth": 4596,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2026-02-10": 17,
       "2026-05-10": 46,
-      "2026-11-04": 2
+      "2026-11-04": 3
     }
   },
   {
